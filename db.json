@@ -1,0 +1,52 @@
+{
+    "pessoas": [
+        { 
+            "nome": "Bruno Prestes", 
+            "imagem": "http://github.com/brunoprestesap.png",
+            "cargo": "Desenvolvedor Front-end",
+            "time": "Programação"
+        },
+        { 
+            "nome": "Bruno Prestes", 
+            "imagem": "http://github.com/brunoprestesap.png",
+            "cargo": "Desenvolvedor",
+            "time": "Programação"
+        },
+        { 
+            "nome": "Bruno Prestes", 
+            "imagem": "http://github.com/brunoprestesap.png",
+            "cargo": "Desenvolvedor",
+            "time": "Programação"
+        },
+        { 
+            "nome": "Bruno Prestes", 
+            "imagem": "http://github.com/brunoprestesap.png",
+            "cargo": "Desenvolvedor",
+            "time": "Programação"
+        },
+        { 
+            "nome": "Bruno Prestes", 
+            "imagem": "http://github.com/brunoprestesap.png",
+            "cargo": "Desenvolvedor Front-end",
+            "time": "Front-End"
+        },
+        { 
+            "nome": "Bruno Prestes", 
+            "imagem": "http://github.com/brunoprestesap.png",
+            "cargo": "Desenvolvedor",
+            "time": "Front-End"
+        },
+        { 
+            "nome": "Bruno Prestes", 
+            "imagem": "http://github.com/brunoprestesap.png",
+            "cargo": "Desenvolvedor",
+            "time": "Front-End"
+        },
+        { 
+            "nome": "Bruno Prestes", 
+            "imagem": "http://github.com/brunoprestesap.png",
+            "cargo": "Desenvolvedor",
+            "time": "Front-End"
+        }
+    ]
+}
